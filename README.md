@@ -323,7 +323,15 @@ Generated servers include comprehensive error handling:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+MIT License allows you to:
+- ✅ Use the software for any purpose
+- ✅ Modify and distribute the software
+- ✅ Include in commercial projects
+- ✅ Patent use (as long as you include the license)
+
+The only requirement is to include the original license and copyright notice in any substantial portions of the software.
 
 ## 🔗 Links & Resources
 
